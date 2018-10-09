@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc905e4f-6fe1-47ea-9eba-9f0f14778cbf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/01396e759.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/0486762e1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/08fe5538d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/11e40532a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/13d56e652.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/1797f5460.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/180f41d53.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/184f64b26.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/19c84bc7c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/1bcdf1f95.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/1df9e7301.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/211c3f24f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/214f2dbcb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/2760cb984.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/2918206b5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/2a56e7fec.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/2df7f8513.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/370b70617.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/3b6a97588.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/3d2f3ad0f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/3fe21a3d4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/40721b002.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/42912adf2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/46fa84dad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/4a320f8be.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/4a44a00eb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/4c832853a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/4f2f35ea4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/510f3ba19.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5357849ba.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/59b1f956d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5aae43c81.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5ca463797.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5cc2862dc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5dc10869f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/5e2cfbee3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/614b0792a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/655471b48.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/6e6b9a20f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/6f099ece0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/70f84707a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/7678bf0c5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/7abe4427d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/7e4b6625f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/817eefb90.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/86536f469.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/886db2427.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/8a748cf8b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/8f6b56be9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/946b48f62.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/9708f9c0e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/997fc29b0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/9d2684128.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/a1a3e2515.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/a74864d83.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/a7547b978.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/b039fd244.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/b3e1dda94.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/b43d0a350.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/b59aec1e1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/ba9dc6742.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/bcbbdd3bd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/bd8a05057.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/beafe5bb1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/bf37d581c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/c17447438.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/c354695d7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/c41bd998c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/cbf4c5ad2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/cc40c32ed.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/cc590cddc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/cd16fe7e4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/d2434e784.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/d2e16e332.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/d47349f62.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/d6576bc79.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/d870ecd2c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/dff210db9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/e0308226e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/e777e1303.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/e805aa0a2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/f0923dcd6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/f18419d0c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/f3f6559bf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/f59177ec7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Fat Hen/ff9f29145.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/006196e1c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/0086c28b2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/0150b5b7e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/01642cae8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/0184ec53f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/030e7f9ef.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/0419f5bbc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/051ea51d0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/06e1ee6e1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/084d21b80.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/107bd7230.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/11323514a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/115808876.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/11dc03905.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/12025fcc1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/16511dd22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/16e38d4af.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/1898398b8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/18a235096.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/18b6755a1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/194d34152.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/19f880311.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/2187ec5fa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/21acedc9b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/23775190c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/23a60f63f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/25c87a3cc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/266211c3c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/269a34bb9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/270e121c0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/27a1dbcdc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/280c7b4d2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/2d8376136.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/2d9adb800.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/2e08d8597.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/30d126c24.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/30f76315b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/31d92d77d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3213aec10.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/34c035273.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/362eee504.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/365ff4533.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/37156c661.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/388317d6c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3a6d4d007.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3ac5a3def.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3ad5d809c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3b6bc2e4c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3cb4f2c65.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3cf92e356.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/3ef465952.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/44a9a599d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/44d562432.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/489da47a5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/49e58b605.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4a1929689.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4ae8bc1c6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4b5aa18ad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4b825327e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4ba437481.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4e04b01b7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4ef677ce4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/4f6b0dc39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/50c80a5e4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5112e0b90.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5150527da.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5251d7bbf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5363a9f84.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5453bff0b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/55083690a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5622305e8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5675e608c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5885bb41b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/59f972ef4.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5a7d10c3d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5b94fab70.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5c7abc049.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5c826024a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5d641d627.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5d6e3b183.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5dfa39111.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/5fdb1dccf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/606d5c83f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/61c7d55b0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/6219b36db.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/62a1614a2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/642e055ee.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/648ddc558.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/6495c3f49.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/649b7af36.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/64a6f6f65.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/65b4ebc41.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/65ba0f497.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/665b921f2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/66a87d834.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/66e90b455.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/67c3663a8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/69f06fcbc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/6d54412c3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/6e9ff31e7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/70b85477d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/7389aea72.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/7446f241c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/749646c56.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/7736aedff.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/77a5a4b51.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/798852825.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/7f23a2f31.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/80fa83273.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/814e74c21.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/822d1163b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8439a7dad.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/84ba8107f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/85ae913c3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/85c25b5a2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/87a3254c9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/87bbc41eb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8a257f6f6.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8bfe6860d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8c6fba454.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8c70f6c91.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8c71f9b84.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8caddf555.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8cd93b279.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/8d2004e7a.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/905f9f385.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/907817b91.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/919e154c2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/91a9d5b9d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/92c06eaca.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/96d476790.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/97da6a579.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/982130e94.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/988113525.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/9977e50bc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/9d1e59e00.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/9d3514473.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/9d588ace5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/9fc63a912.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a1d7080b1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a30702538.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a353bdbd9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a37e7b7db.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a47bdd663.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a4e71c6c3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a53a61390.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a5c2eec2d.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a6e44df4f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/a76555ad2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/abadd72ab.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/ac3de5925.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/af014d45e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b0df48778.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b273efc22.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b496ed692.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b62a6a471.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b72a19852.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b8b2658d9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/b9ffd31a7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/bb9f796ce.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/bede27c87.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/bf22827fb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c05a8d7e1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c08835318.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c5bcc4cb3.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c621da984.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c6dc512e9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c6fabfb59.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/c9b1820d0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/cc3674663.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/cccbcc365.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/cd2b68ba2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/cdcb0f735.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/ce76cb1e5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/cf7b09a39.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/d3963a326.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/d3cf21397.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/d8ae9a82b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/d99129a77.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/dc7a7bdeb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e17f5daf0.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e30accd2f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e364ace75.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e43323e28.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e45f92ca7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e66d87ad7.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/e6d8ba41c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/eba973942.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/edd80f8a8.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/eefba9376.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f135a739f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f2c22a1bf.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f30971a76.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f34429b11.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f3b0496dd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f4dd93492.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f5231714b.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f5e10e5ec.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f60369038.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f98add892.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/f9ceba607.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fb6328acb.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fb6bcaf52.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fbd09f3a5.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fbed08a0e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fc02b8466.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fc68c0525.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fd1ef540c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fdde1498f.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/fdebe4158.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/plant/data/train/Maize/ff4b55219.png" />
+      <change beforePath="$PROJECT_DIR$/plant/data/cnn_app.py" afterPath="$PROJECT_DIR$/plant/data/cnn_app.py" />
+      <change beforePath="$PROJECT_DIR$/plant/data/cnn_backward.py" afterPath="$PROJECT_DIR$/plant/data/cnn_backward.py" />
+      <change beforePath="$PROJECT_DIR$/plant/data/cnn_forward.py" afterPath="$PROJECT_DIR$/plant/data/cnn_forward.py" />
+      <change beforePath="$PROJECT_DIR$/plant/data/cnn_test.py" afterPath="$PROJECT_DIR$/plant/data/cnn_test.py" />
+      <change beforePath="$PROJECT_DIR$/plant/data/tfread.py" afterPath="$PROJECT_DIR$/plant/data/tfread.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MachineLearning$mat_test.coverage" NAME="mat_test Coverage Results" MODIFIED="1522662030910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/titanic" />
+    <SUITE FILE_PATH="coverage/MachineLearning$style_neural.coverage" NAME="style_neural Coverage Results" MODIFIED="1528441347779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/style_transform" />
+    <SUITE FILE_PATH="coverage/MachineLearning$sess_test.coverage" NAME="sess_test Coverage Results" MODIFIED="1532588949428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_example" />
+    <SUITE FILE_PATH="coverage/MachineLearning$get_csv.coverage" NAME="get_csv Coverage Results" MODIFIED="1528267765161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/car_detect" />
+    <SUITE FILE_PATH="coverage/MachineLearning$RNN_DR.coverage" NAME="RNN_DR Coverage Results" MODIFIED="1524018532815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/digit_recognizer" />
+    <SUITE FILE_PATH="coverage/MachineLearning$feature.coverage" NAME="feature Coverage Results" MODIFIED="1528438925559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pre_bus" />
+    <SUITE FILE_PATH="coverage/MachineLearning$classifier_homework.coverage" NAME="classifier_homework Coverage Results" MODIFIED="1522313457532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MachineLearning$TFRecord.coverage" NAME="TFRecord Coverage Results" MODIFIED="1524021789512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CIFAR-10" />
+    <SUITE FILE_PATH="coverage/MachineLearning$data_desc.coverage" NAME="data_desc Coverage Results" MODIFIED="1527736739080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TalkingData/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$tencent.coverage" NAME="tencent Coverage Results" MODIFIED="1524904339986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tencent/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cnn_app.coverage" NAME="cnn_app Coverage Results" MODIFIED="1530146947211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$CNN_DR.coverage" NAME="CNN_DR Coverage Results" MODIFIED="1522647754527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/digit recognizer" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cnn_test.coverage" NAME="cnn_test Coverage Results" MODIFIED="1531907815929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$cnn_backward.coverage" NAME="cnn_backward Coverage Results" MODIFIED="1532067079696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$kkk.coverage" NAME="kkk Coverage Results" MODIFIED="1523331810552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo" />
+    <SUITE FILE_PATH="coverage/MachineLearning$keras_input.coverage" NAME="keras_input Coverage Results" MODIFIED="1531896645429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$homesite.coverage" NAME="homesite Coverage Results" MODIFIED="1523341583767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/homesite/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$house_price.coverage" NAME="house_price Coverage Results" MODIFIED="1522834027679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HousePrice" />
+    <SUITE FILE_PATH="coverage/MachineLearning$home_credit.coverage" NAME="home_credit Coverage Results" MODIFIED="1529479029450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/home_credit/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$lstm_test.coverage" NAME="lstm_test Coverage Results" MODIFIED="1522726391076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/digit recognizer" />
+    <SUITE FILE_PATH="coverage/MachineLearning$talkingData.coverage" NAME="talkingData Coverage Results" MODIFIED="1524880734199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TalkingData/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$Titanic.coverage" NAME="Titanic Coverage Results" MODIFIED="1522736837428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MachineLearning$tfread.coverage" NAME="tfread Coverage Results" MODIFIED="1531905774097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$feature_select.coverage" NAME="feature_select Coverage Results" MODIFIED="1524901786434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tencent/src" />
+    <SUITE FILE_PATH="coverage/MachineLearning$keras_resnet50_transfer.coverage" NAME="keras_resnet50_transfer Coverage Results" MODIFIED="1531960830923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plant/data" />
+    <SUITE FILE_PATH="coverage/MachineLearning$test.coverage" NAME="test Coverage Results" MODIFIED="1522663592221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MachineLearning$Fully_Connection.coverage" NAME="Fully_Connection Coverage Results" MODIFIED="1524880007493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/digit_recognizer" />
+    <SUITE FILE_PATH="coverage/MachineLearning$kaggle_yolo.coverage" NAME="kaggle_yolo Coverage Results" MODIFIED="1532587677663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo/src" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="cnn_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plant/data/cnn_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn_backward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plant/data/cnn_backward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tfread.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plant/data/tfread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1862">
+              <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="25" selection-end-line="102" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn_forward.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plant/data/cnn_forward.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="149" column="7" lean-forward="false" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sess_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow_example/sess_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kaggle_yolo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yolo/src/kaggle_yolo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-399">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cnn_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plant/data/cnn_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Name:</find>
+      <find>Don</find>
+      <find>....</find>
+      <find>Rev</find>
+      <find>Mme</find>
+      <find>16</find>
+      <find>outputs = tf.unstack(tf.transpose(outputs, [1,0,2]))</find>
+      <find>GarageYrBlt</find>
+      <find>MasVnrArea</find>
+      <find>fully_node1</find>
+      <find>e728da3c-c3d4-4a14-a4a4-51afc986381f.jpg</find>
+      <find>b9b73b3f-805a-4040-a8a0-e185c6272324.jpg</find>
+      <find>b8a42497-9506-4132-9302-61296c4af60b.jpg</find>
+      <find>3ea983a7-2ecc-415e-a392-3b42995cf5ca.jpg</find>
+      <find>e3d5c101-6bb9-48af-ac80-08c73304456b</find>
+      <find>952,900012,34</find>
+      <find>963c2ab5-70a5-4dd4-af06-6ad3879fabb9.jpg</find>
+      <find>52593e5e-4627-41df-a5e3-71af6a0a9054</find>
+      <find>(500, 1069, 3)</find>
+      <find>a6f649c5-3f2b-494f-ac7a-d8cb769e8747</find>
+      <find>XNA</find>
+      <find>mnist_cnn_forward</find>
+      <find>mnist_cnn_backward</find>
+      <find>test_images</find>
+      <find>relu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>FULLY_NODE1</replace>
+      <replace>cnn_forward</replace>
+      <replace>cnn_backward</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/car_detect/train</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/plant/data" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/classifier_homework.py" />
+        <option value="$PROJECT_DIR$/Titanic.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/digit recognizer/CNN_DR.py" />
+        <option value="$PROJECT_DIR$/titanic/input/train.csv" />
+        <option value="$PROJECT_DIR$/titanic/mat_test.py" />
+        <option value="$PROJECT_DIR$/titanic/test.py" />
+        <option value="$PROJECT_DIR$/digit recognizer/lstm_test.py" />
+        <option value="$PROJECT_DIR$/titanic/input/TFRecord.py" />
+        <option value="$PROJECT_DIR$/titanic/TFRecord.py" />
+        <option value="$PROJECT_DIR$/digit recognizer/RNN_DR.py" />
+        <option value="$PROJECT_DIR$/HousePrice/house_price.py" />
+        <option value="$PROJECT_DIR$/yolo/kkk.py" />
+        <option value="$PROJECT_DIR$/CIFAR-10/TFRecord.py" />
+        <option value="$PROJECT_DIR$/digit_recognizer/RNN_DR.py" />
+        <option value="$PROJECT_DIR$/digit_recognizer/CNN_DR.py" />
+        <option value="$PROJECT_DIR$/digit_recognizer/Fully_Connection.py" />
+        <option value="$PROJECT_DIR$/titanic/Titanic.py" />
+        <option value="$PROJECT_DIR$/require.txt" />
+        <option value="$PROJECT_DIR$/Tencent/src/feature_select.py" />
+        <option value="$PROJECT_DIR$/TalkingData/src/data_desc.py" />
+        <option value="$PROJECT_DIR$/Tencent/src/tencent.py" />
+        <option value="$PROJECT_DIR$/tensorflow_example/CNN.py" />
+        <option value="$PROJECT_DIR$/tensorflow_example/cnn_input.py" />
+        <option value="$PROJECT_DIR$/yolo/src/gdbt_select.py" />
+        <option value="$PROJECT_DIR$/car_detect/train_1w.csv" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/car_detect/get_csv.py" />
+        <option value="$PROJECT_DIR$/TalkingData/src/talkingData.py" />
+        <option value="$PROJECT_DIR$/homesite/src/homesite.py" />
+        <option value="$PROJECT_DIR$/pre_bus/feature.py" />
+        <option value="$PROJECT_DIR$/style_transform/style_neural.py" />
+        <option value="$PROJECT_DIR$/NLP/n_gram.py" />
+        <option value="$PROJECT_DIR$/tensorflow_example/cnn.py" />
+        <option value="$PROJECT_DIR$/home_credit/src/home_credit.py" />
+        <option value="$PROJECT_DIR$/plant/src/tfread.py" />
+        <option value="$PROJECT_DIR$/yolo/src/kaggle_yolo.py" />
+        <option value="$PROJECT_DIR$/plant/data/cnn_model/checkpoint" />
+        <option value="$PROJECT_DIR$/scapy_project/scapy_scan1.py" />
+        <option value="$PROJECT_DIR$/plant/keras_input.py" />
+        <option value="$PROJECT_DIR$/plant/data/keras_input.py" />
+        <option value="$PROJECT_DIR$/plant/data/cnn_backward.py" />
+        <option value="$PROJECT_DIR$/plant/data/tfread.py" />
+        <option value="$PROJECT_DIR$/plant/data/cnn_test.py" />
+        <option value="$PROJECT_DIR$/plant/data/cnn_app.py" />
+        <option value="$PROJECT_DIR$/plant/data/keras_resnet50_transfer.py" />
+        <option value="$PROJECT_DIR$/plant/data/keras_output.py" />
+        <option value="$PROJECT_DIR$/plant/data/cnn_forward.py" />
+        <option value="$PROJECT_DIR$/tensorflow_example/sess_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="629" />
+    <option name="y" value="184" />
+    <option name="width" value="1101" />
+    <option name="height" value="884" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/scapy_project" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/plant/data" />
+      <recent name="$PROJECT_DIR$/car_detect" />
+      <recent name="$PROJECT_DIR$/pre_bus" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/TalkingData/input" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/plant/data" />
+      <recent name="$PROJECT_DIR$/plant" />
+      <recent name="$PROJECT_DIR$/TalkingData/input/randomstate" />
+      <recent name="$PROJECT_DIR$/TalkingData/input/wordbatch-133" />
+      <recent name="$PROJECT_DIR$/TalkingData/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sess_test">
+    <configuration name="cnn_backward" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plant/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plant/data/cnn_backward.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="cnn_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plant/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plant/data/cnn_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="kaggle_yolo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yolo/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yolo/src/kaggle_yolo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="keras_resnet50_transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plant/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plant/data/keras_resnet50_transfer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sess_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tensorflow_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tensorflow_example/sess_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.cnn_backward" />
+      <item index="1" class="java.lang.String" itemvalue="Python.cnn_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.keras_resnet50_transfer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kaggle_yolo" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sess_test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.sess_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kaggle_yolo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cnn_backward" />
+        <item index="3" class="java.lang.String" itemvalue="Python.keras_resnet50_transfer" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cnn_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc905e4f-6fe1-47ea-9eba-9f0f14778cbf" name="Default" comment="" />
+      <created>1522306570799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522306570799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3141542" sideWeight="0.50296295" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.369863" sideWeight="0.49703702" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37284234" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.437018" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1900277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53240997" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39930955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3141542" sideWeight="0.50296295" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37017995" sideWeight="0.49703702" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37284234" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43573266" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924336" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843652" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53240997" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39930955" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_test/0f1f896d9ae5a04752d3239c690402c022db4d72c0d2c087d73380896f72c466/images/0f1f896d9ae5a04752d3239c690402c022db4d72c0d2c087d73380896f72c466.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_test/1cdbfee1951356e7b0a215073828695fe1ead5f8b1add119b6645d2fdc8d844e/images/1cdbfee1951356e7b0a215073828695fe1ead5f8b1add119b6645d2fdc8d844e.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_test/53df5150ee56253fe5bc91a9230d377bb21f1300f443ba45a758bcb01a15c0e4/images/53df5150ee56253fe5bc91a9230d377bb21f1300f443ba45a758bcb01a15c0e4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_test/295682d9eb5acb5c1976a460c085734bfaf38482b0a3f02591c2bfdcd4128549/images/295682d9eb5acb5c1976a460c085734bfaf38482b0a3f02591c2bfdcd4128549.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/bboxes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3588">
+          <caret line="117844" column="35" lean-forward="false" selection-start-line="117844" selection-start-column="35" selection-end-line="117844" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_test/0a849e0eb15faa8a6d7329c3dd66aabe9a294cccb52ed30a90c8ca99092ae732/images/0a849e0eb15faa8a6d7329c3dd66aabe9a294cccb52ed30a90c8ca99092ae732.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/input/stage1_train/0a7d30b252359a10fd298b638b90cb9ada3acced4e0c0e5a3692013f432ee4e9/images/0a7d30b252359a10fd298b638b90cb9ada3acced4e0c0e5a3692013f432ee4e9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0a7e1ca41.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0b2fba287.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0b3167af8.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0c4a435c7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0cf0581b1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0d5f555a3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0dba71eba.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0e51b1876.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0e1627696.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/eval/Charlock/0edcd02cd.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0a64e3e6c.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0ad9e7dfb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0ae6668fa.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0bf7bfb05.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0c5f6c493.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0c27cf05f.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0c45ace27.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0c51bf229.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0c4199daa.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0caeda5df.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0d31e6602.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0d117d910.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/0dba99002.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_example/cnn_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_example/cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="39" column="14" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/test/2ff5cb348.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scapy_project/scapy_scan1.py" />
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car_detect/get_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="70" column="44" lean-forward="false" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/sample_submission.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.4/site-packages/keras/applications/resnet50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn_model/checkpoint">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/keras_output.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/keras_resnet50_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="45" column="21" lean-forward="false" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/keras_input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/tfread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1862">
+          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="25" selection-end-line="102" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.4/site-packages/tensorflow/python/ops/gen_nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="6478" column="36" lean-forward="false" selection-start-line="6478" selection-start-column="32" selection-end-line="6478" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.4/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="1562" column="4" lean-forward="false" selection-start-line="1562" selection-start-column="4" selection-end-line="1562" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn_backward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yolo/src/kaggle_yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plant/data/cnn_forward.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="149" column="7" lean-forward="false" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_example/sess_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
