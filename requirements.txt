@@ -38,7 +38,7 @@ subprocess32==3.5.1
 tornado==4.5.3
 tqdm==4.23.3
 unrar==0.3
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 websocket-client==0.48.0
 WTForms==2.1
