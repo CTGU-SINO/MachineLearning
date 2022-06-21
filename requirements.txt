@@ -16,7 +16,7 @@ ipaddress==1.0.22
 kiwisolver==1.0.1
 kombu==4.1.0
 matplotlib==2.2.2
-numpy==1.14.3
+numpy==1.22.0
 pandas==0.22.0
 psycopg2==2.7.1
 pydicom==1.0.2
